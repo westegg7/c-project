@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../The Web Developer Bootcamp"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**.dSYM": true
+		},
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
